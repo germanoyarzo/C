@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1620394877 source:d:\lab 1 recursada\arreglosparalelos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1620510412 source:d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\arreglosparalelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1618843840 source:d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\arreglosparalelos\pila.c
+	"pila.h"
+
+1618843842 d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\arreglosparalelos\pila.h
+	<stdio.h>
+	<malloc.h>
+
