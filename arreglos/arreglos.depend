@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1618858241 source:c:\users\user\onedrive\documentos\2 año 1º cuatri\lab 1\arreglos\pila.c
+	"pila.h"
+
+1618858242 c:\users\user\onedrive\documentos\2 año 1º cuatri\lab 1\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1618951430 source:c:\users\user\onedrive\documentos\2 año 1º cuatri\lab 1\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1618843840 source:d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\arreglos\pila.c
+	"pila.h"
+
+1618843842 d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1619529941 source:d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
