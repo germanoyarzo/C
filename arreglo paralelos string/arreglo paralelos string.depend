@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621277409 source:d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\arreglo paralelos string\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
