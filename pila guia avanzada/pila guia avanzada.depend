@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112218 source:d:\lab 1 recursada\pila guia avanzada\pila.c
+	"pila.h"
+
+1490112218 d:\lab 1 recursada\pila guia avanzada\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1617720681 source:d:\lab 1 recursada\pila guia avanzada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
