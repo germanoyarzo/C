@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621078538 source:d:\2 º año 1º cuatrimestre programacion\lab 1 recursada\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
